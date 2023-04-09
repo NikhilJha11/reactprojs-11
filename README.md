@@ -1,9 +1,9 @@
 Welcome to the README file for your React movie app project! This document will guide you through the necessary steps to set up and run your application.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 if facing any issue of npm err because of directory .
 in terminal type cd my-react-app
 then , npm start ..
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 This movie app is a React-based web application that allows users to browse movies, view movie details, and search for movies. The app uses the OMDb API to fetch movie data, and displays the results in a user-friendly interface.
 
